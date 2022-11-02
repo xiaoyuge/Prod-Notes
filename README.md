@@ -12,13 +12,21 @@
 这里才刚开始，慢慢来，不急。
 
 # **目录**
+
 - **[toB和toC产品的区别](https://github.com/xiaoyuge/Prod-Notes/blob/main/toB%E5%92%8CtoC%E4%BA%A7%E5%93%81%E7%9A%84%E5%8C%BA%E5%88%AB.md)**
-- **[聊聊我做过的CRM产品]()**
-- **[通过我做过的产品讲一讲什么是信息化、数字化和数智化]()**
-- **[做产品的生态建设思维]()**
+
+- **[聊聊我做过的CRM产品](https://github.com/xiaoyuge/Prod-Notes/blob/main/%E8%81%8A%E8%81%8A%E6%88%91%E5%81%9A%E8%BF%87%E7%9A%84CRM%E4%BA%A7%E5%93%81.md)**
+
+- **[通过我做过的产品讲一讲什么是信息化、数字化和数智化](https://github.com/xiaoyuge/Prod-Notes/blob/main/%E9%80%9A%E8%BF%87%E6%88%91%E5%81%9A%E8%BF%87%E7%9A%84%E4%BA%A7%E5%93%81%E8%AE%B2%E4%B8%80%E8%AE%B2%E4%BB%80%E4%B9%88%E6%98%AF%E4%BF%A1%E6%81%AF%E5%8C%96%E3%80%81%E6%95%B0%E5%AD%97%E5%8C%96%E5%92%8C%E6%95%B0%E6%99%BA%E5%8C%96.md)**
+
+- **[做产品的生态建设思维](https://github.com/xiaoyuge/Prod-Notes/blob/main/%E5%81%9A%E4%BA%A7%E5%93%81%E7%9A%84%E7%94%9F%E6%80%81%E5%BB%BA%E8%AE%BE%E6%80%9D%E7%BB%B4.md)**
+
 - **[如何做出好产品](https://github.com/xiaoyuge/Prod-Notes/blob/main/%E5%A6%82%E4%BD%95%E5%81%9A%E5%87%BA%E5%A5%BD%E4%BA%A7%E5%93%81.md)**
+
 - **[如何找到用户的真实需求——用户任务三步法](https://github.com/xiaoyuge/Prod-Notes/blob/main/%E5%A6%82%E4%BD%95%E6%89%BE%E5%88%B0%E7%94%A8%E6%88%B7%E7%9A%84%E7%9C%9F%E5%AE%9E%E9%9C%80%E6%B1%82%E2%80%94%E2%80%94%E7%94%A8%E6%88%B7%E4%BB%BB%E5%8A%A1%E4%B8%89%E6%AD%A5%E6%B3%95.md)**
+
 - **[卡诺模型](https://github.com/xiaoyuge/Prod-Notes/blob/main/%E5%8D%A1%E8%AF%BA%E6%A8%A1%E5%9E%8B.md)**
+
 - **[不同业务阶段的产品策略](https://github.com/xiaoyuge/Prod-Notes/blob/main/%E4%B8%8D%E5%90%8C%E4%B8%9A%E5%8A%A1%E9%98%B6%E6%AE%B5%E7%9A%84%E4%BA%A7%E5%93%81%E7%AD%96%E7%95%A5.md)**
 
 
