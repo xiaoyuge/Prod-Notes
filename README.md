@@ -9,8 +9,6 @@
 
 但国美的经历只是个开始，对产品、用户、商业的思考将永不停止，这里就是我随时思考和记录的空间。
 
-这里才刚开始，慢慢来，不急。
-
 # **目录**
 
 - **[toB和toC产品的区别](https://github.com/xiaoyuge/Prod-Notes/blob/main/toB%E5%92%8CtoC%E4%BA%A7%E5%93%81%E7%9A%84%E5%8C%BA%E5%88%AB.md)**
