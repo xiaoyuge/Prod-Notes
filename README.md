@@ -13,7 +13,7 @@
 
 # **目录**
 
-- **[toB和toC产品的区别](https://github.com/xiaoyuge/Prod-Notes/blob/main/toB%E5%92%8CtoC%E4%BA%A7%E5%93%81%E7%9A%84%E5%8C%BA%E5%88%AB.md)**
+- **[产业互联网的下半场，如何从C端转B端](https://github.com/xiaoyuge/Prod-Notes/blob/main/%E4%BA%A7%E4%B8%9A%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E4%B8%8B%E5%8D%8A%E5%9C%BA%EF%BC%8C%E5%A6%82%E4%BD%95%E4%BB%8EC%E7%AB%AF%E8%BD%ACB%E7%AB%AF.md)**
 
 - **[聊聊我做过的CRM产品](https://github.com/xiaoyuge/Prod-Notes/blob/main/%E8%81%8A%E8%81%8A%E6%88%91%E5%81%9A%E8%BF%87%E7%9A%84CRM%E4%BA%A7%E5%93%81.md)**
 
