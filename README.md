@@ -15,9 +15,9 @@
 
 - **[产业互联网的下半场，如何从C端转B端](https://github.com/xiaoyuge/Prod-Notes/blob/main/%E4%BA%A7%E4%B8%9A%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E4%B8%8B%E5%8D%8A%E5%9C%BA%EF%BC%8C%E5%A6%82%E4%BD%95%E4%BB%8EC%E7%AB%AF%E8%BD%ACB%E7%AB%AF.md)**
 
-- **[聊聊我做过的CRM产品](https://github.com/xiaoyuge/Prod-Notes/blob/main/%E8%81%8A%E8%81%8A%E6%88%91%E5%81%9A%E8%BF%87%E7%9A%84CRM%E4%BA%A7%E5%93%81.md)**
-
 - **[通过我做过的产品讲一讲什么是信息化、数字化和数智化](https://github.com/xiaoyuge/Prod-Notes/blob/main/%E9%80%9A%E8%BF%87%E6%88%91%E5%81%9A%E8%BF%87%E7%9A%84%E4%BA%A7%E5%93%81%E8%AE%B2%E4%B8%80%E8%AE%B2%E4%BB%80%E4%B9%88%E6%98%AF%E4%BF%A1%E6%81%AF%E5%8C%96%E3%80%81%E6%95%B0%E5%AD%97%E5%8C%96%E5%92%8C%E6%95%B0%E6%99%BA%E5%8C%96.md)**
+
+- **[聊聊我做过的CRM产品](https://github.com/xiaoyuge/Prod-Notes/blob/main/%E8%81%8A%E8%81%8A%E6%88%91%E5%81%9A%E8%BF%87%E7%9A%84CRM%E4%BA%A7%E5%93%81.md)**
 
 - **[做产品的生态建设思维](https://github.com/xiaoyuge/Prod-Notes/blob/main/%E5%81%9A%E4%BA%A7%E5%93%81%E7%9A%84%E7%94%9F%E6%80%81%E5%BB%BA%E8%AE%BE%E6%80%9D%E7%BB%B4.md)**
 
