@@ -17,7 +17,7 @@
 
 - **[通过我做过的产品讲一讲什么是信息化、数字化和数智化](https://github.com/xiaoyuge/Prod-Notes/blob/main/%E9%80%9A%E8%BF%87%E6%88%91%E5%81%9A%E8%BF%87%E7%9A%84%E4%BA%A7%E5%93%81%E8%AE%B2%E4%B8%80%E8%AE%B2%E4%BB%80%E4%B9%88%E6%98%AF%E4%BF%A1%E6%81%AF%E5%8C%96%E3%80%81%E6%95%B0%E5%AD%97%E5%8C%96%E5%92%8C%E6%95%B0%E6%99%BA%E5%8C%96.md)**
 
-- **[越来越卷的环境下，如何让自己脱颖而出]()**
+- **[越来越卷的环境下，如何让自己脱颖而出](https://github.com/xiaoyuge/Prod-Notes/blob/main/%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%8D%B7%E7%9A%84%E7%8E%AF%E5%A2%83%E4%B8%8B%EF%BC%8C%E5%A6%82%E4%BD%95%E8%AE%A9%E8%87%AA%E5%B7%B1%E8%84%B1%E9%A2%96%E8%80%8C%E5%87%BA.md)**
 
 - **[聊聊我做过的CRM产品](https://github.com/xiaoyuge/Prod-Notes/blob/main/%E8%81%8A%E8%81%8A%E6%88%91%E5%81%9A%E8%BF%87%E7%9A%84CRM%E4%BA%A7%E5%93%81.md)**
 
